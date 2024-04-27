@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Harshita!
-I'm a passionate data science learner on a journey to master the art of extracting insights from data.
+I'm dedicated to mastering the art of data analysis and data science, continuously expanding my skills to bridge theory with practical applications. I thrive on transforming complex data into actionable insights and am eager to contribute to real-world projects. Committed to lifelong learning, I'm on a journey to excel in extracting insights from data and turning them into actionable intelligence.
+
 
 ### 🔧 Skills & Tools
 MS excel | Python | MySQL | Pandas | Numpy | Scikit-learn | Tensorflow | Jupyter notebook | Tableau | Power BI
