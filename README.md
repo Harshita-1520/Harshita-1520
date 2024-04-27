@@ -2,16 +2,7 @@
 I'm a passionate data science learner on a journey to master the art of extracting insights from data.
 
 ### 🔧 Skills & Tools
-- MS excel
-- Python
-- MySQL
-- Pandas
-- NumPy
-- Scikit-learn
-- TensorFlow
-- Jupyter Notebooks
-- Tableau
-- Power BI
+MS excel | Python | MySQL | Pandas | Numpy | Scikit-learn | Tensorflow | Jupyter notebook | Tableau | Power BI
 
   ### 🌱 Currently Learning
 
@@ -20,7 +11,7 @@ I'm a passionate data science learner on a journey to master the art of extracti
 - Deep learning concepts
 
   ### 🚀 Projects
--[Obesity level prediction and recommendation system]
+-[Obesity level prediction and recommendation system]()
 -[Taxi industry analysis by PowerBI]
 
 ### 📚 Certifications & Courses
