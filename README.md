@@ -12,8 +12,8 @@ MS excel | Python | MySQL | Pandas | Numpy | Scikit-learn | Tensorflow | Jupyter
 - Deep learning concepts
 
   ### 🚀 Projects
--[Obesity level prediction and recommendation system]()
--[Taxi industry analysis by PowerBI]
+- [Obesity level prediction and recommendation system](https://github.com/Harshita-1520/Obesity_Level_Prediction_and_Recommendation_System)
+-[Taxi industry analysis by PowerBI](https://github.com/Harshita-1520/Taxi-Industry-Analysis-Power-BI)
 
 ### 📚 Certifications & Courses
 
